@@ -1,0 +1,13 @@
+Source of tea descriptions in TeaTypes file:
+https://www.artfultea.com/tea-wisdom-1/types-of-tea-a-comprehensive-guide#:~:
+text=The%20primary%20types%20of%20tea,black%20tea%20and%20green%20tea%3F
+
+Source of the setButtonIcon method in TeaGuideGUI.java:
+https://stackoverflow.com/questions/2856480/resizing-a-imageicon-in-a-jbutton
+
+Resources used to learn about GUIs and construct TeaGuideGUI.java:
+-Critter project files from UW CSE 142
+-https://www.javatpoint.com/java-swing
+-https://docs.oracle.com/javase/7/docs/api/
+-https://www.youtube.com/watch?v=5o3fMLPY7qY
+-https://www.youtube.com/watch?v=iE8tZ0hn2Ws
