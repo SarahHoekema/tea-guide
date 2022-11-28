@@ -1,6 +1,7 @@
 //Sarah Hoekema
 //CS 145
 //Interactive Tea Guide
+//Time spent: 10-12 hours
 
 import java.io.*;
 import java.util.*;
